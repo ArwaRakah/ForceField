@@ -52,6 +52,9 @@ python setup.py install
 sudo python setup.py install
 ```
 
+## Before Running ForceFIeld (For Administrators usage)  
+* Make sure to follow the steps in the User Manual: (https://scribehow.com/shared/ForceField_User_Manual__U2ip2-BXRmm4t-v7EsNRBw)
+  
 ## Run ForceFIeld 
 ```
 python ForceField.py
