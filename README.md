@@ -55,12 +55,8 @@ sudo python setup.py install
 ## Run ForceFIeld 
 ```
 python ForceField.py
-
 ```
 
-```
-https://github.com/ArwaRakah/ForceField.git
-```
 ## Commands
 
 Short Form    | Long Form     | Description
