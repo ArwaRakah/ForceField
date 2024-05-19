@@ -43,12 +43,13 @@ sudo pip install -r requirements.txt
 ```
 Alternatively, you can install the package and its dependencies using `setup.py`:
 
-    - Installation on Windows:
-      ```sh
-      python setup.py install
-      ```
-    - Installation on Linux:
-      ```sh
-      sudo python setup.py install
+- Installation on Windows:
+```
+python setup.py install
+```
+- Installation on Linux
+```
+sudo python setup.py install
+```
       ```
     ```
