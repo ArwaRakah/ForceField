@@ -18,7 +18,7 @@ ForceFIeld is a command line tool to detect APT presence using network traffic i
 
 ## ForceField Logo
 
-![ForceField Logo]([https://github.com/arwar/ForceField/raw/main/logo.png](https://github.com/ArwaRakah/ForceField/blob/main/logo.jpeg?raw=true) "ForceField Logo")
+![ForceField Logo](https://github.com/arwar/ForceField/raw/main/logo.png](https://github.com/ArwaRakah/ForceField/blob/main/logo.jpeg?raw=true "ForceField Logo")
 
 ## Installation
 
@@ -51,7 +51,8 @@ sudo python setup.py install
 ```
 
 ## Before Running ForceFIeld (For Administrators usage)  
-* Make sure to follow the steps in the User Manual: (https://scribehow.com/shared/ForceField_User_Manual__U2ip2-BXRmm4t-v7EsNRBw)
+* Make sure to follow the steps in the User Manual: [User Manual](https://scribehow.com/shared/ForceField_User_Manual__U2ip2-BXRmm4t-v7EsNRBw)
+
   
 ## Run ForceFIeld 
 ```
@@ -83,7 +84,7 @@ Short Form    | Long Form     | Description
 
 ## Credits
 
-* [MITER ATT@CK](https://github.com/TheRook](https://attack.mitre.org/groups/)) - The APT latest TTPs extracted from it **CTI reports**. 
+* [MITER ATT@CK](https://github.com/TheRook](https://attack.mitre.org/groups/) - The APT latest TTPs extracted from it **CTI reports**. 
 
 
 ## Version
