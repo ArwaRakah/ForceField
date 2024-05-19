@@ -16,9 +16,9 @@ ForceFIeld is a command line tool to detect APT presence using network traffic i
 * [+]Layan Al Ali
 * [+]Sara Al Shaieb
 
-## ForceField Logo
+## ForceFIeld Logo
 
-![ForceField Logo](https://github.com/arwar/ForceField/raw/main/logo.png](https://github.com/ArwaRakah/ForceField/blob/main/logo.jpeg?raw=true "ForceField Logo")
+![ForceField Logo](https://github.com/arwar/ForceField/raw/main/logo.png)
 
 ## Installation
 
@@ -84,7 +84,7 @@ Short Form    | Long Form     | Description
 
 ## Credits
 
-* [MITER ATT@CK](https://github.com/TheRook](https://attack.mitre.org/groups/) - The APT latest TTPs extracted from it **CTI reports**. 
+* [MITER ATT@CK](https://attack.mitre.org/groups/) - The APT latest TTPs extracted from it **CTI reports**. 
 
 
 ## Version
