@@ -18,7 +18,7 @@ ForceFIeld is a command line tool to detect APT presence using network traffic i
 
 ## ForceFIeld Logo
 
-![ForceField Logo](https://github.com/arwar/ForceField/raw/main/logo.png)
+![ForceField Logo](https://github.com/arwar/ForceField/raw/main/logo.jpeg)
 
 ## Installation
 
