@@ -51,5 +51,43 @@ python setup.py install
 ```
 sudo python setup.py install
 ```
-      ```
-    ```
+
+## Run ForceFIeld 
+```
+python ForceField.py
+
+```
+
+```
+https://github.com/ArwaRakah/ForceField.git
+```
+## Commands
+
+Short Form    | Long Form     | Description
+------------- | ------------- |-------------
+-r            | --report      | Generate a report of real-time sniffing
+-u            | --upload      | Upload new data and make predictions
+-i            | --history     | Display report history
+-g            | --register    | Register a new Admin
+-c            | --cti         | Display CTI reports
+-s            | --sniff       | Start Sniffing
+-l            | --logout      | Log out
+-h            | --help        | show the help message and exit
+
+### Examples
+
+* To list all the  options and commands use -h switch:
+
+```python ForceField.py -h```
+
+* To start sniffing real-time network traffic use -s switch:
+
+``python ForceField.py -s``
+
+## Credits
+
+* [MITER ATT@CK](https://github.com/TheRook](https://attack.mitre.org/groups/)) - The APT latest TTPs extracted from it **CTI reports**. 
+
+
+## Version
+**Current version is 1.0**
