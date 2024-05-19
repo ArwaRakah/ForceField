@@ -1,0 +1,9 @@
+bcrypt
+requests
+urllib3
+tqdm
+mysql-connector-python
+scapy
+beautifulsoup4
+colorama
+scikit-learn
